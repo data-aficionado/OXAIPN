@@ -1,0 +1,11 @@
+     # Ignore specific file
+     file.txt
+     
+     # Ignore entire directory
+     /directory/
+     
+     # Ignore all files with a specific extension
+     *.log
+     
+.DS_Store
+
