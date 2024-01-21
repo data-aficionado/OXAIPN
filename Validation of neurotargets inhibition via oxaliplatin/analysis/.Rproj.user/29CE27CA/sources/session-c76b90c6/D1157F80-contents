@@ -1,0 +1,93 @@
+#Install DESeq2 and load libraries
+#BiocManager::install("DESeq2")
+#BiocManager::install('EnhancedVolcano')
+
+library("DESeq2")
+library("ggrepel")
+library("IRanges")
+library("GenomicRanges")
+library("GenomeInfoDb")
+library("SummarizedExperiment")
+library("MatrixGenerics")
+library("matrixStats")
+library("ggplot2")
+library("ggrepel")
+library("EnhancedVolcano")
+library("biomaRt")
+library("dplyr")
+
+#metadata should have Run and Phenotype columns
+
+# Read metadata and create DESeq2 dataset
+colData <- read.csv("metadata.csv", sep = ",", header = TRUE)
+rownames(colData) <- colData$Run
+
+countData <- read.csv("output.csv", sep = ",", header = TRUE)
+colnames(countData) <- gsub(pattern = "_dedup.bam", replacement = "", x = names(countData))
+
+#countData <- countData[!duplicated(countData$Geneid), ]
+rownames(countData) <- countData$Geneid
+countData <- subset(countData, select = -c(1))
+
+# Convert the countData to integer type
+#countData <- round(countData)
+
+
+dds <- DESeqDataSetFromMatrix(countData = countData, colData = colData, design = ~Phenotype)
+dds <- DESeq(dds)
+res <- results(dds, contrast=c("Phenotype","OXA","Normal"))
+#res <- results(dds)
+
+# Perform gene annotation using biomaRt
+mart <- biomaRt::useMart(biomart = "ENSEMBL_MART_ENSEMBL",
+                         dataset = "hsapiens_gene_ensembl",
+                         host = "www.ensembl.org")
+ttg <- biomaRt::getBM(attributes = c('ensembl_gene_id',
+                                     'gene_biotype','hgnc_symbol'),
+                      "ensembl_gene_id", rownames(res), mart = mart)
+
+res$ensembl_gene_id <- rownames(res)
+
+# Join gene annotations with DESeq2 results
+res_dataframe <- as.data.frame(res)
+degs <- res_dataframe %>% left_join(ttg, by = 'ensembl_gene_id', multiple = 'all')
+
+# Plot volcano plot with colored points
+degs <- degs[!(is.na(degs$hgnc_symbol) | degs$hgnc_symbol == ""), ]
+
+gene_biotype_list <- levels(as.factor(degs$gene_biotype))
+
+EnhancedVolcano(degs, lab = degs$hgnc_symbol, x = 'log2FoldChange', y = 'pvalue',
+                pCutoff = 0.05, FCcutoff = 1, title = 'OXA vs. Normal')
+
+
+# Create a directory to store the output files
+output_dir <- "output_files"
+dir.create(output_dir, showWarnings = FALSE)
+
+for (i in seq_along(gene_biotype_list)) {
+  print(gene_biotype_list[i])
+  # Extract genes of a specific biotype
+  current_genes <- degs[degs$gene_biotype == gene_biotype_list[i], ]
+  print(current_genes)
+  # Perform volcano plot
+  EnhancedVolcano(current_genes, lab = current_genes$hgnc_symbol,
+                  x = 'log2FoldChange', y = 'pvalue',
+                  pCutoff = 0.05, FCcutoff = 1,
+                  title = paste('Differential Expressed ', gene_biotype_list[i], "in", 'OXA vs. Normal'))
+  # Save the plot
+  ggsave(paste('Volcano_Plot_', gsub("/", "_", gene_biotype_list[i]), '.png'),
+         plot = last_plot(), dpi = 900, width = 9, height = 9, units = "in")
+  # Filter significant genes and write to CSV files
+  write.csv(current_genes, paste('Dysregulated_genes_no-threshold', gsub("/", "_", gene_biotype_list[i]), '.csv', sep = ''))
+  current_genes <- subset(current_genes, log2FoldChange < -1 & pvalue < 0.05 | log2FoldChange > 1 & pvalue < 0.05)
+  write.csv(current_genes, paste('Dysregulated-genes-threshold', gsub("/", "_", gene_biotype_list[i]), '.csv', sep = ''))
+  downregupdated <- subset(current_genes, log2FoldChange < -1 & pvalue < 0.05)
+  upregupdated <- subset(current_genes, log2FoldChange > 1 & pvalue < 0.05)
+  top10_downregupdated <- head(arrange(downregupdated, log2FoldChange), 10)
+  top10_upregupdated <- upregupdated %>% arrange(desc(log2FoldChange)) %>% head(10)
+  write.csv(upregupdated, paste('UPregulated-logFC-1_', gsub("/", "_", gene_biotype_list[i]), '.csv', sep = ''))
+  write.csv(downregupdated, paste('DOWNregulated-logFC-1_', gsub("/", "_", gene_biotype_list[i]), '.csv', sep = ''))
+  write.csv(top10_downregupdated, paste('TOP10=DOWNregulated_', gsub("/", "_", gene_biotype_list[i]), '.csv', sep = ''))
+  write.csv(top10_upregupdated, paste('TOP10-UPregulated_', gsub("/", "_", gene_biotype_list[i]), '.csv', sep = ''))
+}

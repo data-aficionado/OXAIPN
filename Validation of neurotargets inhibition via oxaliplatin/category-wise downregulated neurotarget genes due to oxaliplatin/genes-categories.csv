@@ -1,0 +1,1513 @@
+Gene,Category
+Gap43,Normal Sensory Neurons associated genes (literature)
+Fabp7,Normal Sensory Neurons associated genes (literature)
+Gfap,Normal Sensory Neurons associated genes (literature)
+PGC-1α,Normal Sensory Neurons associated genes (literature)
+Atf3,Normal Sensory Neurons associated genes (literature)
+Gja1,Normal Sensory Neurons associated genes (literature)
+Mpz,Normal Sensory Neurons associated genes (literature)
+Plp1,Normal Sensory Neurons associated genes (literature)
+Fasn,Normal Sensory Neurons associated genes (literature)
+SOX10,Normal Sensory Neurons associated genes (literature)
+Bdnf,Normal Sensory Neurons associated genes (literature)
+RBFOX3,Normal Sensory Neurons associated genes (literature)
+APOE,Normal Sensory Neurons associated genes (literature)
+SST,Normal Sensory Neurons associated genes (literature)
+JAK1,Normal Sensory Neurons associated genes (literature)
+S1PR1,Normal Sensory Neurons associated genes (literature)
+KCND3,Normal Sensory Neurons associated genes (literature)
+IQSEC2,Normal Sensory Neurons associated genes (literature)
+FXYD,Normal Sensory Neurons associated genes (literature)
+SHOX2,Normal Sensory Neurons associated genes (literature)
+NPTX2,Normal Sensory Neurons associated genes (literature)
+FOXP2,Normal Sensory Neurons associated genes (literature)
+RUNX1,Normal Sensory Neurons associated genes (literature)
+IL31RA,Normal Sensory Neurons associated genes (literature)
+OSMR,Normal Sensory Neurons associated genes (literature)
+NTRK1,Normal Sensory Neurons associated genes (literature)
+TRPV1,Normal Sensory Neurons associated genes (literature)
+RET,Normal Sensory Neurons associated genes (literature)
+NGF,Normal Sensory Neurons associated genes (literature)
+VAPB,Normal Sensory Neurons associated genes (literature)
+MFN2,Normal Sensory Neurons associated genes (literature)
+SOD1,Normal Sensory Neurons associated genes (literature)
+TARDBP,Normal Sensory Neurons associated genes (literature)
+RAG1,Normal Sensory Neurons associated genes (literature)
+LRP1,Normal Sensory Neurons associated genes (literature)
+SCN1A,Normal Sensory Neurons associated genes (literature)
+ZIC1,Normal Sensory Neurons associated genes (literature)
+MSX1 ,Normal Sensory Neurons associated genes (literature)
+DYX1C1/ DNAAF4,Normal Sensory Neurons associated genes (literature)
+DCDC2,Normal Sensory Neurons associated genes (literature)
+KIAA0319,Normal Sensory Neurons associated genes (literature)
+ROBO1,Normal Sensory Neurons associated genes (literature)
+NRSN1,Normal Sensory Neurons associated genes (literature)
+KIAA0319L,Normal Sensory Neurons associated genes (literature)
+CNTNAP2,Normal Sensory Neurons associated genes (literature)
+GRIN2B,Normal Sensory Neurons associated genes (literature)
+Mbp,Normal Sensory Neurons associated genes (literature)
+SLC17A6,Normal Sensory Neurons associated genes (literature)
+PAX3,Normal Sensory Neurons associated genes (literature)
+PCDH15,Sensory neurons-REACTOME
+CDH23,Sensory neurons-REACTOME
+FSCN2,Sensory neurons-REACTOME
+MYH9,Sensory neurons-REACTOME
+GRXCR1,Sensory neurons-REACTOME
+MYO1C,Sensory neurons-REACTOME
+GRXCR2,Sensory neurons-REACTOME
+MYO7A,Sensory neurons-REACTOME
+CLIC5,Sensory neurons-REACTOME
+MSN,Sensory neurons-REACTOME
+PLS1,Sensory neurons-REACTOME
+EPB41L1,Sensory neurons-REACTOME
+TWF1,Sensory neurons-REACTOME
+ACTG1,Sensory neurons-REACTOME
+RDX,Sensory neurons-REACTOME
+EZR,Sensory neurons-REACTOME
+TPRN,Sensory neurons-REACTOME
+XIRP2,Sensory neurons-REACTOME
+RIPOR2,Sensory neurons-REACTOME
+ACTB,Sensory neurons-REACTOME
+SPTAN1,Sensory neurons-REACTOME
+SPTBN1,Sensory neurons-REACTOME
+EPB41L3,Sensory neurons-REACTOME
+MPP1,Sensory neurons-REACTOME
+ESPN,Sensory neurons-REACTOME
+GSN,Sensory neurons-REACTOME
+MYO15A,Sensory neurons-REACTOME
+MYO3B,Sensory neurons-REACTOME
+TWF2,Sensory neurons-REACTOME
+MYO3A,Sensory neurons-REACTOME
+WHRN,Sensory neurons-REACTOME
+ESPNL,Sensory neurons-REACTOME
+CASK,Sensory neurons-REACTOME
+EPS8L2,Sensory neurons-REACTOME
+EPS8,Sensory neurons-REACTOME
+PJVK,Sensory neurons-REACTOME
+TRIOBP,Sensory neurons-REACTOME
+TRIOBP,Sensory neurons-REACTOME
+USH1C,Sensory neurons-REACTOME
+USH1G,Sensory neurons-REACTOME
+CIB2,Sensory neurons-REACTOME
+TMC2,Sensory neurons-REACTOME
+TMC1,Sensory neurons-REACTOME
+TMIE,Sensory neurons-REACTOME
+LHFPL5,Sensory neurons-REACTOME
+OTOGL,Sensory neurons-REACTOME
+OTOG,Sensory neurons-REACTOME
+STRC,Sensory neurons-REACTOME
+KCNQ4,Sensory neurons-REACTOME
+-2 ATP2B2,Sensory neurons-REACTOME
+SLC26A5,Sensory neurons-REACTOME
+KCNMB1,Sensory neurons-REACTOME
+KCNMA1,Sensory neurons-REACTOME
+CHRNA9,Sensory neurons-REACTOME
+CHRNA10,Sensory neurons-REACTOME
+KCNN2,Sensory neurons-REACTOME
+LRRC52,Sensory neurons-REACTOME
+BSN,Sensory neurons-REACTOME
+ CTBP2,Sensory neurons-REACTOME
+PCLO,Sensory neurons-REACTOME
+RAB3A,Sensory neurons-REACTOME
+DNAJC5,Sensory neurons-REACTOME
+OTOF,Sensory neurons-REACTOME
+SLC17A8,Sensory neurons-REACTOME
+SYP,Sensory neurons-REACTOME
+SYN1,Sensory neurons-REACTOME
+VAMP2,Sensory neurons-REACTOME
+SNAP25,Sensory neurons-REACTOME
+STX1A,Sensory neurons-REACTOME
+ATP2B1,Sensory neurons-REACTOME
+CAPZB,Sensory neurons-REACTOME
+CAPZA2,Sensory neurons-REACTOME
+CAPZA1,Sensory neurons-REACTOME
+CACNB2,Sensory neurons-REACTOME
+CACNA2D2,Sensory neurons-REACTOME
+CACNA1D,Sensory neurons-REACTOME
+CABP1,Sensory neurons-REACTOME
+CABP2,Sensory neurons-REACTOME
+CALHM3,Sensory neurons-REACTOME
+CALHM1,Sensory neurons-REACTOME
+SCNN1B,Sensory neurons-REACTOME
+SCNN1G,Sensory neurons-REACTOME
+SCNN1D,Sensory neurons-REACTOME
+SCNN1A,Sensory neurons-REACTOME
+TAS2R41,Sensory neurons-REACTOME
+TAS2R4,Sensory neurons-REACTOME
+TAS2R1,Sensory neurons-REACTOME
+TAS2R10,Sensory neurons-REACTOME
+TAS2R30,Sensory neurons-REACTOME
+TAS2R40,Sensory neurons-REACTOME
+TAS2R43,Sensory neurons-REACTOME
+TAS2R5,Sensory neurons-REACTOME
+TAS2R20,Sensory neurons-REACTOME
+TAS2R14,Sensory neurons-REACTOME
+TAS2R31,Sensory neurons-REACTOME
+TAS2R39,Sensory neurons-REACTOME
+TAS2R46,Sensory neurons-REACTOME
+TAS2R7,Sensory neurons-REACTOME
+TAS2R13,Sensory neurons-REACTOME
+TAS2R38,Sensory neurons-REACTOME
+TAS2R50,Sensory neurons-REACTOME
+TAS2R3,Sensory neurons-REACTOME
+TAS2R8,Sensory neurons-REACTOME
+TAS2R16,Sensory neurons-REACTOME
+GNB3,Sensory neurons-REACTOME
+GNB1,Sensory neurons-REACTOME
+GNG13,Sensory neurons-REACTOME
+GNAT3,Sensory neurons-REACTOME
+GRM1,Sensory neurons-REACTOME
+PLCB2,Sensory neurons-REACTOME
+TRPM4,Sensory neurons-REACTOME
+SCN1B,Sensory neurons-REACTOME
+SCN2B,Sensory neurons-REACTOME
+SCN4B,Sensory neurons-REACTOME
+SCN9A,Sensory neurons-REACTOME
+TAS1R3,Sensory neurons-REACTOME
+TAS1R2,Sensory neurons-REACTOME
+ITPR3,Sensory neurons-REACTOME
+SCN3A,Sensory neurons-REACTOME
+TAS1R1,Sensory neurons-REACTOME
+TRPM5,Sensory neurons-REACTOME
+GRM4,Sensory neurons-REACTOME
+SCN2A,Sensory neurons-REACTOME
+OTOP1,Sensory neurons-REACTOME
+KCNJ2,Sensory neurons-REACTOME
+OPN1SW,Sensory neurons-REACTOME
+OPN1MW,Sensory neurons-REACTOME
+OPN1LW,Sensory neurons-REACTOME
+RLBP1,Sensory neurons-REACTOME
+RBP3,Sensory neurons-REACTOME
+DHRS3,Sensory neurons-REACTOME
+AWAT2,Sensory neurons-REACTOME
+STRA6,Sensory neurons-REACTOME
+TTR,Sensory neurons-REACTOME
+RBP4,Sensory neurons-REACTOME
+RHO,Sensory neurons-REACTOME
+SDR9C7,Sensory neurons-REACTOME
+HSD17B6,Sensory neurons-REACTOME
+RDH16,Sensory neurons-REACTOME
+DHRS9,Sensory neurons-REACTOME
+RDH5,Sensory neurons-REACTOME
+HSD17B1,Sensory neurons-REACTOME
+RDH8,Sensory neurons-REACTOME
+RPE65,Sensory neurons-REACTOME
+RDH12,Sensory neurons-REACTOME
+ABCA4,Sensory neurons-REACTOME
+CYP4V2,Sensory neurons-REACTOME
+RDH11,Sensory neurons-REACTOME
+RDH10,Sensory neurons-REACTOME
+RBP1,Sensory neurons-REACTOME
+LRAT,Sensory neurons-REACTOME
+NAPEPLD,Sensory neurons-REACTOME
+AKR1B10,Sensory neurons-REACTOME
+AKR1C3,Sensory neurons-REACTOME
+AKR1C4,Sensory neurons-REACTOME
+AKR1C1,Sensory neurons-REACTOME
+RBP2,Sensory neurons-REACTOME
+APOE,Sensory neurons-REACTOME
+GPC2,Sensory neurons-REACTOME
+AGRN,Sensory neurons-REACTOME
+GPC4,Sensory neurons-REACTOME
+SDC4,Sensory neurons-REACTOME
+GPC3,Sensory neurons-REACTOME
+SDC3,Sensory neurons-REACTOME
+GPC1,Sensory neurons-REACTOME
+GPC6,Sensory neurons-REACTOME
+SDC2,Sensory neurons-REACTOME
+HSPG2,Sensory neurons-REACTOME
+GPC5,Sensory neurons-REACTOME
+SDC1,Sensory neurons-REACTOME
+APOC2,Sensory neurons-REACTOME
+APOA2,Sensory neurons-REACTOME
+APOA4,Sensory neurons-REACTOME
+APOC3,Sensory neurons-REACTOME
+APOA1,Sensory neurons-REACTOME
+APOB,Sensory neurons-REACTOME
+PNLIP,Sensory neurons-REACTOME
+CLPS,Sensory neurons-REACTOME
+PLB1,Sensory neurons-REACTOME
+BCO2,Sensory neurons-REACTOME
+APOM,Sensory neurons-REACTOME
+BCO1,Sensory neurons-REACTOME
+LPL,Sensory neurons-REACTOME
+GPIHBP1,Sensory neurons-REACTOME
+LDLR,Sensory neurons-REACTOME
+LRP12,Sensory neurons-REACTOME
+LRP10,Sensory neurons-REACTOME
+LRP2,Sensory neurons-REACTOME
+LRP8,Sensory neurons-REACTOME
+LRP1,Sensory neurons-REACTOME
+RETSAT,Sensory neurons-REACTOME
+NMT1,Sensory neurons-REACTOME
+NMT2,Sensory neurons-REACTOME
+GNAT1,Sensory neurons-REACTOME
+SAG,Sensory neurons-REACTOME
+FNTA,Sensory neurons-REACTOME
+FNTB,Sensory neurons-REACTOME
+GNGT1,Sensory neurons-REACTOME
+GUCY2D,Sensory neurons-REACTOME
+GUCY2F,Sensory neurons-REACTOME
+GUCA1B,Sensory neurons-REACTOME
+GUCA1A,Sensory neurons-REACTOME
+GUCA1C,Sensory neurons-REACTOME
+GRK7,Sensory neurons-REACTOME
+-1 GRK4,Sensory neurons-REACTOME
+GRK1,Sensory neurons-REACTOME
+RCVRN,Sensory neurons-REACTOME
+PPEF1,Sensory neurons-REACTOME
+CNGB1,Sensory neurons-REACTOME
+CNGA1,Sensory neurons-REACTOME
+CALM1,Sensory neurons-REACTOME
+PDE6G,Sensory neurons-REACTOME
+PDE6A,Sensory neurons-REACTOME
+PDE6B,Sensory neurons-REACTOME
+-1 GNB5,Sensory neurons-REACTOME
+-3 RGS9,Sensory neurons-REACTOME
+RGS9BP,Sensory neurons-REACTOME
+METAP1,Sensory neurons-REACTOME
+METAP2,Sensory neurons-REACTOME
+PRKCA,Sensory neurons-REACTOME
+PRKCQ,Sensory neurons-REACTOME
+CAMKMT,Sensory neurons-REACTOME
+SLC24A1,Sensory neurons-REACTOME
+ADCY3,Sensory neurons-REACTOME
+GNAL,Sensory neurons-REACTOME
+OR4L1,Sensory neurons-REACTOME
+OR51L1,Sensory neurons-REACTOME
+OR2AT4,Sensory neurons-REACTOME
+OR5K1,Sensory neurons-REACTOME
+OR6P1,Sensory neurons-REACTOME
+OR1A1,Sensory neurons-REACTOME
+OR4Q3,Sensory neurons-REACTOME
+OR2B11,Sensory neurons-REACTOME
+OR5AL1,Sensory neurons-REACTOME
+OR11A1,Sensory neurons-REACTOME
+OR11H4,Sensory neurons-REACTOME
+OR7G2,Sensory neurons-REACTOME
+OR5P3,Sensory neurons-REACTOME
+OR14J1,Sensory neurons-REACTOME
+OR4D2,Sensory neurons-REACTOME
+OR7C1,Sensory neurons-REACTOME
+OR2C1,Sensory neurons-REACTOME
+OR4F17,Sensory neurons-REACTOME
+OR14A2,Sensory neurons-REACTOME
+OR56A4,Sensory neurons-REACTOME
+OR10X1,Sensory neurons-REACTOME
+OR51E1,Sensory neurons-REACTOME
+OR2M2,Sensory neurons-REACTOME
+OR13C3,Sensory neurons-REACTOME
+OR10G3,Sensory neurons-REACTOME
+OR2T1,Sensory neurons-REACTOME
+OR3A1,Sensory neurons-REACTOME
+OR10A6,Sensory neurons-REACTOME
+OR2W1,Sensory neurons-REACTOME
+OR2S2,Sensory neurons-REACTOME
+OR5D14,Sensory neurons-REACTOME
+OR51D1,Sensory neurons-REACTOME
+OR2F1,Sensory neurons-REACTOME
+OR51E2,Sensory neurons-REACTOME
+OR2J3,Sensory neurons-REACTOME
+OR1C1,Sensory neurons-REACTOME
+OR6F1,Sensory neurons-REACTOME
+OR1N2,Sensory neurons-REACTOME
+OR10J5,Sensory neurons-REACTOME
+OR2J2,Sensory neurons-REACTOME
+OR4C12,Sensory neurons-REACTOME
+OR52B6,Sensory neurons-REACTOME
+OR2J1,Sensory neurons-REACTOME
+OR2T4,Sensory neurons-REACTOME
+OR2A7,Sensory neurons-REACTOME
+OR51B5,Sensory neurons-REACTOME
+OR8K3,Sensory neurons-REACTOME
+OR8U8,Sensory neurons-REACTOME
+OR9G1,Sensory neurons-REACTOME
+OR8D1,Sensory neurons-REACTOME
+OR10H5,Sensory neurons-REACTOME
+OR7D4,Sensory neurons-REACTOME
+OR10G4,Sensory neurons-REACTOME
+OR8B3,Sensory neurons-REACTOME
+OR2A25,Sensory neurons-REACTOME
+OR2M7,Sensory neurons-REACTOME
+OR1E1,Sensory neurons-REACTOME
+OR2W3,Sensory neurons-REACTOME
+OR1D5,Sensory neurons-REACTOME
+OR1D2,Sensory neurons-REACTOME
+OR10S1,Sensory neurons-REACTOME
+OR2A1,Sensory neurons-REACTOME
+OR11H6,Sensory neurons-REACTOME
+OR10H2,Sensory neurons-REACTOME
+OR2L13,Sensory neurons-REACTOME
+OR10G7,Sensory neurons-REACTOME
+CNGA4,Sensory neurons-REACTOME
+CNGA2,Sensory neurons-REACTOME
+CNGB1,Sensory neurons-REACTOME
+ANO2,Sensory neurons-REACTOME
+RTP2,Sensory neurons-REACTOME
+OR4E2,Sensory neurons-REACTOME
+OR6K6,Sensory neurons-REACTOME
+OR1F1,Sensory neurons-REACTOME
+OR52I2,Sensory neurons-REACTOME
+OR8K1,Sensory neurons-REACTOME
+OR7A10,Sensory neurons-REACTOME
+OR5D18,Sensory neurons-REACTOME
+OR8A1,Sensory neurons-REACTOME
+OR8B12,Sensory neurons-REACTOME
+OR7A5,Sensory neurons-REACTOME
+OR56A1,Sensory neurons-REACTOME
+OR52E5,Sensory neurons-REACTOME
+OR2B3,Sensory neurons-REACTOME
+OR9Q2,Sensory neurons-REACTOME
+OR5J2,Sensory neurons-REACTOME
+OR8J1,Sensory neurons-REACTOME
+OR6B1,Sensory neurons-REACTOME
+OR51M1,Sensory neurons-REACTOME
+OR5AR1,Sensory neurons-REACTOME
+OR7C2,Sensory neurons-REACTOME
+OR5T1,Sensory neurons-REACTOME
+OR5B21,Sensory neurons-REACTOME
+OR52R1,Sensory neurons-REACTOME
+OR6A2,Sensory neurons-REACTOME
+RTP1,Sensory neurons-REACTOME
+REEP1,Sensory neurons-REACTOME
+OR2D2,Sensory neurons-REACTOME
+OR5G3,Sensory neurons-REACTOME
+OR51B6,Sensory neurons-REACTOME
+OR1L1,Sensory neurons-REACTOME
+OR12D2,Sensory neurons-REACTOME
+OR51V1,Sensory neurons-REACTOME
+OR2T6,Sensory neurons-REACTOME
+OR9G9,Sensory neurons-REACTOME
+OR5L1,Sensory neurons-REACTOME
+OR6C4,Sensory neurons-REACTOME
+OR52J3,Sensory neurons-REACTOME
+OR6N1,Sensory neurons-REACTOME
+OR52E1,Sensory neurons-REACTOME
+OR52A5,Sensory neurons-REACTOME
+OR13C8,Sensory neurons-REACTOME
+OR13C2,Sensory neurons-REACTOME
+OR2T2,Sensory neurons-REACTOME
+OR4K17,Sensory neurons-REACTOME
+OR4B1,Sensory neurons-REACTOME
+OR4A15,Sensory neurons-REACTOME
+OR4N5,Sensory neurons-REACTOME
+OR7G1,Sensory neurons-REACTOME
+OR5B3,Sensory neurons-REACTOME
+OR10G2,Sensory neurons-REACTOME
+OR13A1,Sensory neurons-REACTOME
+OR10W1,Sensory neurons-REACTOME
+OR9G4,Sensory neurons-REACTOME
+OR51A2,Sensory neurons-REACTOME
+OR51Q1,Sensory neurons-REACTOME
+OR5D13,Sensory neurons-REACTOME
+OR4F15,Sensory neurons-REACTOME
+OR2A5,Sensory neurons-REACTOME
+OR51G2,Sensory neurons-REACTOME
+OR6T1,Sensory neurons-REACTOME
+OR4C45,Sensory neurons-REACTOME
+OR4K13,Sensory neurons-REACTOME
+OR2D3,Sensory neurons-REACTOME
+OR5P2,Sensory neurons-REACTOME
+OR4C16,Sensory neurons-REACTOME
+OR5H2,Sensory neurons-REACTOME
+OR4N2,Sensory neurons-REACTOME
+OR9Q1,Sensory neurons-REACTOME
+OR5AC1,Sensory neurons-REACTOME
+OR5B17,Sensory neurons-REACTOME
+OR10D3,Sensory neurons-REACTOME
+OR7D2,Sensory neurons-REACTOME
+OR7G3,Sensory neurons-REACTOME
+OR4N4,Sensory neurons-REACTOME
+OR51I1,Sensory neurons-REACTOME
+OR6N2,Sensory neurons-REACTOME
+OR5M9,Sensory neurons-REACTOME
+OR2T29,Sensory neurons-REACTOME
+OR5M1,Sensory neurons-REACTOME
+OR6B3,Sensory neurons-REACTOME
+OR51H1,Sensory neurons-REACTOME
+OR2A2,Sensory neurons-REACTOME
+OR4D6,Sensory neurons-REACTOME
+OR52L2P,Sensory neurons-REACTOME
+OR9I1,Sensory neurons-REACTOME
+OR10V1,Sensory neurons-REACTOME
+OR52L1,Sensory neurons-REACTOME
+OR5W2,Sensory neurons-REACTOME
+OR4D10,Sensory neurons-REACTOME
+OR5T2,Sensory neurons-REACTOME
+OR2V2,Sensory neurons-REACTOME
+OR10H1,Sensory neurons-REACTOME
+OR7E24,Sensory neurons-REACTOME
+OR7A2P,Sensory neurons-REACTOME
+OR5I1,Sensory neurons-REACTOME
+OR4D9,Sensory neurons-REACTOME
+OR5K3,Sensory neurons-REACTOME
+OR6B2,Sensory neurons-REACTOME
+OR5AN1,Sensory neurons-REACTOME
+OR4E1,Sensory neurons-REACTOME
+OR52A1,Sensory neurons-REACTOME
+OR6Q1,Sensory neurons-REACTOME
+OR5AU1,Sensory neurons-REACTOME
+OR6Y1,Sensory neurons-REACTOME
+OR10AD1,Sensory neurons-REACTOME
+OR12D3,Sensory neurons-REACTOME
+OR2T12,Sensory neurons-REACTOME
+OR6C70,Sensory neurons-REACTOME
+OR10Z1,Sensory neurons-REACTOME
+OR52A4P,Sensory neurons-REACTOME
+OR10P1,Sensory neurons-REACTOME
+OR8B4,Sensory neurons-REACTOME
+OR2T34,Sensory neurons-REACTOME
+OR51T1,Sensory neurons-REACTOME
+OR4A4P,Sensory neurons-REACTOME
+OR4K3,Sensory neurons-REACTOME
+OR4D1,Sensory neurons-REACTOME
+OR9K2,Sensory neurons-REACTOME
+OR13F1,Sensory neurons-REACTOME
+OR8G2P,Sensory neurons-REACTOME
+OR4K15,Sensory neurons-REACTOME
+OR1J2,Sensory neurons-REACTOME
+OR5M10,Sensory neurons-REACTOME
+OR13C4,Sensory neurons-REACTOME
+OR10A2,Sensory neurons-REACTOME
+OR52M1,Sensory neurons-REACTOME
+OR2M3,Sensory neurons-REACTOME
+OR51I2,Sensory neurons-REACTOME
+OR2Y1,Sensory neurons-REACTOME
+OR5AC2,Sensory neurons-REACTOME
+OR5AP2,Sensory neurons-REACTOME
+OR2M4,Sensory neurons-REACTOME
+OR4C3,Sensory neurons-REACTOME
+OR8B8,Sensory neurons-REACTOME
+OR10K2,Sensory neurons-REACTOME
+OR2B2,Sensory neurons-REACTOME
+OR52H1,Sensory neurons-REACTOME
+OR5B2,Sensory neurons-REACTOME
+OR51S1,Sensory neurons-REACTOME
+OR2I1P,Sensory neurons-REACTOME
+OR2AJ1,Sensory neurons-REACTOME
+OR2T10,Sensory neurons-REACTOME
+OR52N4,Sensory neurons-REACTOME
+OR6C74,Sensory neurons-REACTOME
+OR2C3,Sensory neurons-REACTOME
+OR4D5,Sensory neurons-REACTOME
+OR52N1,Sensory neurons-REACTOME
+OR5D16,Sensory neurons-REACTOME
+OR2F2,Sensory neurons-REACTOME
+OR10K1,Sensory neurons-REACTOME
+OR4F6,Sensory neurons-REACTOME
+OR4C15,Sensory neurons-REACTOME
+OR4K5,Sensory neurons-REACTOME
+OR8G5,Sensory neurons-REACTOME
+OR5M3,Sensory neurons-REACTOME
+OR2T8,Sensory neurons-REACTOME
+OR4P4,Sensory neurons-REACTOME
+OR5AS1,Sensory neurons-REACTOME
+OR6C76,Sensory neurons-REACTOME
+OR56A5,Sensory neurons-REACTOME
+OR52K2,Sensory neurons-REACTOME
+OR6C2,Sensory neurons-REACTOME
+OR2T27,Sensory neurons-REACTOME
+OR1J4,Sensory neurons-REACTOME
+OR4C11,Sensory neurons-REACTOME
+OR1S1,Sensory neurons-REACTOME
+OR8H3,Sensory neurons-REACTOME
+OR4F21,Sensory neurons-REACTOME
+OR52D1,Sensory neurons-REACTOME
+OR52E4,Sensory neurons-REACTOME
+OR1J1,Sensory neurons-REACTOME
+OR2AK2,Sensory neurons-REACTOME
+OR3A3,Sensory neurons-REACTOME
+OR8J3,Sensory neurons-REACTOME
+OR52I1,Sensory neurons-REACTOME
+OR8K5,Sensory neurons-REACTOME
+OR2L2,Sensory neurons-REACTOME
+OR8D2,Sensory neurons-REACTOME
+OR10R2,Sensory neurons-REACTOME
+OR2L8,Sensory neurons-REACTOME
+OR4X2,Sensory neurons-REACTOME
+OR3A2,Sensory neurons-REACTOME
+OR10T2,Sensory neurons-REACTOME
+OR8H2,Sensory neurons-REACTOME
+OR5H14,Sensory neurons-REACTOME
+OR5F1,Sensory neurons-REACTOME
+OR8J2,Sensory neurons-REACTOME
+OR6K2,Sensory neurons-REACTOME
+OR1S2,Sensory neurons-REACTOME
+OR10A3,Sensory neurons-REACTOME
+OR8G1,Sensory neurons-REACTOME
+OR8B2,Sensory neurons-REACTOME
+OR4K1,Sensory neurons-REACTOME
+OR1B1,Sensory neurons-REACTOME
+OR8H1,Sensory neurons-REACTOME
+OR5M11,Sensory neurons-REACTOME
+OR10A5,Sensory neurons-REACTOME
+OR2H1,Sensory neurons-REACTOME
+OR51J1,Sensory neurons-REACTOME
+OR56B4,Sensory neurons-REACTOME
+OR5A2,Sensory neurons-REACTOME
+OR2G6,Sensory neurons-REACTOME
+OR4X1,Sensory neurons-REACTOME
+OR6C68,Sensory neurons-REACTOME
+OR10A7,Sensory neurons-REACTOME
+OR14A16,Sensory neurons-REACTOME
+OR4A8,Sensory neurons-REACTOME
+OR4F4,Sensory neurons-REACTOME
+OR7A17,Sensory neurons-REACTOME
+OR1L8,Sensory neurons-REACTOME
+OR10H4,Sensory neurons-REACTOME
+OR2K2,Sensory neurons-REACTOME
+OR13J1,Sensory neurons-REACTOME
+OR51F1,Sensory neurons-REACTOME
+OR6C1,Sensory neurons-REACTOME
+OR1Q1,Sensory neurons-REACTOME
+OR2B6,Sensory neurons-REACTOME
+OR6C6,Sensory neurons-REACTOME
+OR11H2,Sensory neurons-REACTOME
+OR1K1,Sensory neurons-REACTOME
+OR4M1,Sensory neurons-REACTOME
+OR6M1,Sensory neurons-REACTOME
+OR4K2,Sensory neurons-REACTOME
+OR4Q2,Sensory neurons-REACTOME
+OR5T3,Sensory neurons-REACTOME
+OR56B1,Sensory neurons-REACTOME
+OR6K3,Sensory neurons-REACTOME
+OR2T3,Sensory neurons-REACTOME
+OR10H3,Sensory neurons-REACTOME
+OR2L5,Sensory neurons-REACTOME
+OR2T11,Sensory neurons-REACTOME
+OR51A4,Sensory neurons-REACTOME
+OR4K14,Sensory neurons-REACTOME
+OR4A5,Sensory neurons-REACTOME
+OR6C65,Sensory neurons-REACTOME
+OR6J1,Sensory neurons-REACTOME
+OR52E8,Sensory neurons-REACTOME
+OR5AK2,Sensory neurons-REACTOME
+OR51F2,Sensory neurons-REACTOME
+OR13D1,Sensory neurons-REACTOME
+OR6X1,Sensory neurons-REACTOME
+OR5A1,Sensory neurons-REACTOME
+OR10J4,Sensory neurons-REACTOME
+OR1G1,Sensory neurons-REACTOME
+OR11H1,Sensory neurons-REACTOME
+OR2Z1,Sensory neurons-REACTOME
+OR14K1,Sensory neurons-REACTOME
+OR4F5,Sensory neurons-REACTOME
+OR52N2,Sensory neurons-REACTOME
+OR14C36,Sensory neurons-REACTOME
+OR4F3,Sensory neurons-REACTOME
+OR52N5,Sensory neurons-REACTOME
+OR8U9,Sensory neurons-REACTOME
+OR51B2,Sensory neurons-REACTOME
+OR13C9,Sensory neurons-REACTOME
+OR5C1,Sensory neurons-REACTOME
+OR8U1,Sensory neurons-REACTOME
+OR4C46,Sensory neurons-REACTOME
+OR1F12P,Sensory neurons-REACTOME
+OR10C1,Sensory neurons-REACTOME
+OR10G6,Sensory neurons-REACTOME
+OR2AE1,Sensory neurons-REACTOME
+OR52E6,Sensory neurons-REACTOME
+OR9A2,Sensory neurons-REACTOME
+OR2AG1,Sensory neurons-REACTOME
+OR2A14,Sensory neurons-REACTOME
+OR5H15,Sensory neurons-REACTOME
+OR10G8,Sensory neurons-REACTOME
+OR2AG2,Sensory neurons-REACTOME
+OR13G1,Sensory neurons-REACTOME
+OR5L2,Sensory neurons-REACTOME
+OR2G3,Sensory neurons-REACTOME
+OR5K2,Sensory neurons-REACTOME
+OR1I1,Sensory neurons-REACTOME
+OR8I2,Sensory neurons-REACTOME
+OR2A4,Sensory neurons-REACTOME
+OR1E2,Sensory neurons-REACTOME
+OR4M2,Sensory neurons-REACTOME
+OR4A16,Sensory neurons-REACTOME
+OR51G1,Sensory neurons-REACTOME
+OR2T7,Sensory neurons-REACTOME
+OR6S1,Sensory neurons-REACTOME
+OR6V1,Sensory neurons-REACTOME
+OR11L1,Sensory neurons-REACTOME
+OR6C3,Sensory neurons-REACTOME
+OR4S2,Sensory neurons-REACTOME
+OR5B12,Sensory neurons-REACTOME
+OR10AC1,Sensory neurons-REACTOME
+OR1E3,Sensory neurons-REACTOME
+OR10Q1,Sensory neurons-REACTOME
+OR5H1,Sensory neurons-REACTOME
+OR1L6,Sensory neurons-REACTOME
+OR8U3,Sensory neurons-REACTOME
+OR11H7,Sensory neurons-REACTOME
+OR2T35,Sensory neurons-REACTOME
+OR4C13,Sensory neurons-REACTOME
+OR5K4,Sensory neurons-REACTOME
+OR1L4,Sensory neurons-REACTOME
+OR56A3,Sensory neurons-REACTOME
+OR2V1,Sensory neurons-REACTOME
+OR8D4,Sensory neurons-REACTOME
+OR2T5,Sensory neurons-REACTOME
+OR1N1,Sensory neurons-REACTOME
+OR2L3,Sensory neurons-REACTOME
+OR1D4,Sensory neurons-REACTOME
+OR5H6,Sensory neurons-REACTOME
+OR14I1,Sensory neurons-REACTOME
+OR1L3,Sensory neurons-REACTOME
+OR52K1,Sensory neurons-REACTOME
+OR9A4,Sensory neurons-REACTOME
+OR10J3,Sensory neurons-REACTOME
+OR1P1,Sensory neurons-REACTOME
+OR51A7,Sensory neurons-REACTOME
+OR2A12,Sensory neurons-REACTOME
+OR11G2,Sensory neurons-REACTOME
+OR52Z1P,Sensory neurons-REACTOME
+OR2G2,Sensory neurons-REACTOME
+OR10A4,Sensory neurons-REACTOME
+OR1A2,Sensory neurons-REACTOME
+OR4S1,Sensory neurons-REACTOME
+OR13C5,Sensory neurons-REACTOME
+OR1M1,Sensory neurons-REACTOME
+OR52W1,Sensory neurons-REACTOME
+OR2T33,Sensory neurons-REACTOME
+OR6C75,Sensory neurons-REACTOME
+OR4D11,Sensory neurons-REACTOME
+OR52B2,Sensory neurons-REACTOME
+OR13H1,Sensory neurons-REACTOME
+OR5M8,Sensory neurons-REACTOME
+OR10G9,Sensory neurons-REACTOME
+OR52E2,Sensory neurons-REACTOME
+OR5V1,Sensory neurons-REACTOME
+OR2AP1,Sensory neurons-REACTOME
+OR2H2,Sensory neurons-REACTOME
+OR10AG1,Sensory neurons-REACTOME
+OR10J1,Sensory neurons-REACTOME
+OR4C6,Sensory neurons-REACTOME
+OR8S1,Sensory neurons-REACTOME
+OR4A47,Sensory neurons-REACTOME
+OR2W5P,Sensory neurons-REACTOME
+OR51B4,Sensory neurons-REACTOME
+OR4C5,Sensory neurons-REACTOME
+LHX2,Sensory neurons-REACTOME
+EBF1,Sensory neurons-REACTOME
+LDB1,Sensory neurons-REACTOME
+CACNA1A,Calcium channel
+CACNA1B,Calcium channel
+CACNA1C,Calcium channel
+CACNA1D,Calcium channel
+CACNA1E,Calcium channel
+CACNA1F,Calcium channel
+CACNA1G,Calcium channel
+CACNA1H,Calcium channel
+CACNA1I,Calcium channel
+CACNA1S,Calcium channel
+CACNA2D1,Calcium channel
+CACNA2D2,Calcium channel
+CACNA2D3,Calcium channel
+CACNA2D4,Calcium channel
+CACNB1,Calcium channel
+CACNB2,Calcium channel
+CACNB3,Calcium channel
+CACNB4,Calcium channel
+CACNG1,Calcium channel
+CACNG2,Calcium channel
+CACNG3,Calcium channel
+CACNG4,Calcium channel
+CACNG5,Calcium channel
+CACNG6,Calcium channel
+CACNG7,Calcium channel
+CACNG8,Calcium channel
+SCN1B,Network-related
+CALM3,Network-related
+SCN4B,Network-related
+CLCN1,Network-related
+SCN3B,Network-related
+SCN2A,Network-related
+CALM2,Network-related
+SCN2B,Network-related
+SCNN1B,Network-related
+SCNN1A,Network-related
+SCN1B,Network-related
+SCN2B,Network-related
+SCN4B,Network-related
+SCN3B,Network-related
+SCLT1,Network-related
+TRPM4,Network-related
+SCN5A,Network-related
+S100A10,Network-related
+ANXA2,Network-related
+ANK3,Network-related
+SCN1B,Network-related
+SCN2B,Network-related
+SCN2A,Network-related
+SCN3A,Network-related
+CALHM1,Network-related
+SCN4B,Network-related
+GABRG2,Network-related
+NAV1,Network-related
+AGL,Network-related
+MPV17,Network-related
+KCNMB4,Network-related
+KCNMA1,Network-related
+KCNU1,Network-related
+KCNMB1,Network-related
+KCNN2,Network-related
+KCNMB2,Network-related
+KCNMB3,Network-related
+KCNN4,Network-related
+ORAI1,Network-related
+PRKCA,Network-related
+ABCG2,Network-related
+SLC22A8,Network-related
+UGT1A6,Network-related
+SLCO1B1,Network-related
+SLCO1B3,Network-related
+RDX,Network-related
+CRY1,Network-related
+UGT2B7,Network-related
+PDZK1,Network-related
+SLC10A1,Network-related
+GRHPR,Network-related
+AGXT2,Network-related
+HOGA1,Network-related
+SHMT1,Network-related
+SHMT2,Network-related
+PSPH,Network-related
+PEX5,Network-related
+HAO1,Network-related
+KAT2B,Network-related
+HAO2,Network-related
+CDK7,Network-related
+GTF2H4,Network-related
+MNAT1,Network-related
+GTF2H1,Network-related
+GTF2H2,Network-related
+GTF2E1,Network-related
+ERCC3,Network-related
+GTF2E2,Network-related
+MMS19,Network-related
+XPA,Network-related
+APEX1,Network-related
+POLB,Network-related
+APLF,Network-related
+PNKP,Network-related
+PARP1,Network-related
+LIG3,Network-related
+APTX,Network-related
+LIG1,Network-related
+OGG1,Network-related
+PARP2,Network-related
+TACR1,Network-related
+TACR2,Network-related
+TAC3,Network-related
+GRP,Network-related
+AGT,Network-related
+TACR3,Network-related
+KNG1,Network-related
+TAC4,Network-related
+NTS,Network-related
+VIP,Network-related
+PITX2,Network-related
+GMDS,Network-related
+CYP1B1,Network-related
+PBX1,Network-related
+SOX2,Network-related
+PAX6,Network-related
+PPP2R2A,Network-related
+GLI2,Network-related
+BMP4,Network-related
+SIX1,Network-related
+ITGB1,Network-related
+ITGB3,Network-related
+ITGB5,Network-related
+ITGB2,Network-related
+ITGB6,Network-related
+ITGA2,Network-related
+ITGB8,Network-related
+ITGA3,Network-related
+ITGA10,Network-related
+ITGB7,Network-related
+ALDH1B1,Network-related
+ACOT12,Network-related
+ACSS2,Network-related
+ALDH9A1,Network-related
+ACYP1,Network-related
+ALDH2,Network-related
+ALDH3A2,Network-related
+ALDH7A1,Network-related
+ACSS1,Network-related
+ZNF208,Network-related
+TNFRSF13B,Network-related
+OR10A2,Network-related
+TNFRSF17,Network-related
+KCNRG,Network-related
+KLHL35,Network-related
+EBPL,Network-related
+RNASEH2B,Network-related
+SPRYD7,Network-related
+GASK1B,Network-related
+DIP2C,Network-related
+CNOT7,Network-related
+CNOT8,Network-related
+CNOT6L,Network-related
+ZFP36L2,Network-related
+PABPN1L,Network-related
+WEE2,Network-related
+CPEB1,Network-related
+EIF4E,Network-related
+NLRP5,Network-related
+ZAR1L,Network-related
+CAMK2A,Network-related
+ARHGAP9,Network-related
+NRSN1,Network-related
+CAMK2D,Network-related
+FAM43B,Network-related
+NGEF,Network-related
+ENAH,Network-related
+MAPK13,Network-related
+SCAMP5,Network-related
+MYBPC1,Network-related
+FARSB,Network-related
+FARSA,Network-related
+LRRC47,Network-related
+YARS1,Network-related
+NDUFAF5,Network-related
+YARS2,Network-related
+AARS1,Network-related
+DARS2,Network-related
+NARS2,Network-related
+VARS1,Network-related
+CD74,Network-related
+MPO,Network-related
+CTSB,Network-related
+BID,Network-related
+IL10RA,Network-related
+CST3,Network-related
+BCL2,Network-related
+BCL2L1,Network-related
+LGMN,Network-related
+IL10RB,Network-related
+GSTM2,Network-related
+CYP1A1,Network-related
+EPHX1,Network-related
+SPP1,Network-related
+CYP2E1,Network-related
+CYP1B1,Network-related
+CYP1A2,Network-related
+CYP3A4,Network-related
+CYP2C9,Network-related
+CYP2A6,Network-related
+TRPV1,Network-related
+TRPM8,Network-related
+PRKCE,Network-related
+KNG1,Network-related
+NGF,Network-related
+HIF1AN,Network-related
+TRPV2,Network-related
+TRPM3,Network-related
+SCG3,Network-related
+F2RL1,Network-related
+EPHX1,Network-related
+CYP2E1,Network-related
+CYP3A4,Network-related
+CYP1A1,Network-related
+MAPK8,Network-related
+PRDX6,Network-related
+CYP1B1,Network-related
+CYP1A2,Network-related
+GSR,Network-related
+CYP2C9,Network-related
+ATP7B,Network-related
+ATP7A,Network-related
+ATOX1,Network-related
+CCS,Network-related
+COX17,Network-related
+SLC22A2,Network-related
+SLC11A2,Network-related
+SLC22A1,Network-related
+CP,Network-related
+SLC30A1,Network-related
+SLC47A1,Network-related
+IGF2R,Network-related
+SLC47A2,Network-related
+EHMT2,Network-related
+SLC31A1,Network-related
+SLC6A2,Network-related
+YRDC,Network-related
+SLCO1B1,Network-related
+SLCO1B3,Network-related
+RSC1A1,Network-related
+CASP9,Network-related
+CASP8,Network-related
+PARP1,Network-related
+XIAP,Network-related
+APAF1,Network-related
+BIRC3,Network-related
+CYCS,Network-related
+BIRC2,Network-related
+CDKN1A,Network-related
+BIRC7,Network-related
+CALM3,Network-related
+CALML6,Network-related
+CALML3,Network-related
+CALML5,Network-related
+CALML4,Network-related
+SYN1,Network-related
+NGF,Network-related
+BASP1,Network-related
+SYP,Network-related
+NRGN,Network-related
+NEFL,Network-related
+NEFM,Network-related
+INA,Network-related
+KIF5A,Network-related
+KIF5C,Network-related
+KLC1,Network-related
+KLC2,Network-related
+KLC3,Network-related
+KIF5B,Network-related
+KLC4,Network-related
+Oct2,Network-related
+ABCC2,Network-related
+ACYP2,Network-related
+AGXT,Network-related
+BTG4,Network-related
+CAMK2N1,Network-related
+Caspase-3,Network-related
+CTR1,Network-related
+CTSS,Network-related
+DLEU7,Network-related
+ERCC2,Network-related
+FARS2,Network-related
+FOXC1,Network-related
+GAP43,Network-related
+GSTM1,Network-related
+GSTP1,Network-related
+ITGA1,Network-related
+KCNN3,Network-related
+NEFH,Network-related
+XRCC1,Network-related
+SCN10A,Network-related
+SCN4A,Network-related
+SCN9A,Network-related
+TAC1,Network-related
+TRPA1,Network-related
+SCN1A,Sodium-channel
+SCN2A,Sodium-channel
+SCN3A,Sodium-channel
+SCN4A,Sodium-channel
+SCN5A,Sodium-channel
+SCN7A,Sodium-channel
+SCN8A,Sodium-channel
+SCN9A,Sodium-channel
+SCN10A,Sodium-channel
+SCN11A,Sodium-channel
+SCN1B,Sodium-channel
+SCN2B,Sodium-channel
+SCN3B,Sodium-channel
+SCN4B,Sodium-channel
+SCNN1A,Sodium-channel
+SCNN1B,Sodium-channel
+SCNN1G,Sodium-channel
+SCNN1D,Sodium-channel
+SCLT1,Sodium-channel
+SCNM1,Sodium-channel
+KCMF1,Potassium-channel
+KCNA1,Potassium-channel
+KCNA10,Potassium-channel
+KCNA2,Potassium-channel
+KCNA3,Potassium-channel
+KCNA4,Potassium-channel
+KCNA5,Potassium-channel
+KCNA6,Potassium-channel
+KCNA7,Potassium-channel
+KCNAB1,Potassium-channel
+KCNAB2,Potassium-channel
+KCNAB3,Potassium-channel
+KCNB1,Potassium-channel
+KCNB2,Potassium-channel
+KCNC1,Potassium-channel
+KCNC2,Potassium-channel
+KCNC3,Potassium-channel
+KCNC4,Potassium-channel
+KCND1,Potassium-channel
+KCND2,Potassium-channel
+KCND3,Potassium-channel
+KCNE1,Potassium-channel
+KCNE2,Potassium-channel
+KCNE3,Potassium-channel
+KCNE4,Potassium-channel
+KCNE5,Potassium-channel
+KCNF1,Potassium-channel
+KCNG1,Potassium-channel
+KCNG2,Potassium-channel
+KCNG3,Potassium-channel
+KCNG4,Potassium-channel
+KCNH1,Potassium-channel
+KCNH2,Potassium-channel
+KCNH3,Potassium-channel
+KCNH4,Potassium-channel
+KCNH5,Potassium-channel
+KCNH6,Potassium-channel
+KCNH7,Potassium-channel
+KCNH8,Potassium-channel
+KCNIP1,Potassium-channel
+KCNIP2,Potassium-channel
+KCNIP3,Potassium-channel
+KCNIP4,Potassium-channel
+KCNJ1,Potassium-channel
+KCNJ10,Potassium-channel
+KCNJ11,Potassium-channel
+KCNJ12,Potassium-channel
+KCNJ13,Potassium-channel
+KCNJ14,Potassium-channel
+KCNJ15,Potassium-channel
+KCNJ16,Potassium-channel
+KCNJ17,Potassium-channel
+KCNJ18,Potassium-channel
+KCNJ2,Potassium-channel
+KCNJ3,Potassium-channel
+KCNJ4,Potassium-channel
+KCNJ5,Potassium-channel
+KCNJ6,Potassium-channel
+KCNJ8,Potassium-channel
+KCNJ9,Potassium-channel
+KCNK1,Potassium-channel
+KCNK10,Potassium-channel
+KCNK12,Potassium-channel
+KCNK13,Potassium-channel
+KCNK15,Potassium-channel
+KCNK16,Potassium-channel
+KCNK17,Potassium-channel
+KCNK18,Potassium-channel
+KCNK2,Potassium-channel
+KCNK3,Potassium-channel
+KCNK4,Potassium-channel
+KCNK5,Potassium-channel
+KCNK6,Potassium-channel
+KCNK7,Potassium-channel
+KCNK9,Potassium-channel
+KCNMA1,Potassium-channel
+KCNMB1,Potassium-channel
+KCNMB2,Potassium-channel
+KCNMB3,Potassium-channel
+KCNMB4,Potassium-channel
+KCNN1,Potassium-channel
+KCNN2,Potassium-channel
+KCNN3,Potassium-channel
+KCNN4,Potassium-channel
+KCNQ1,Potassium-channel
+KCNQ2,Potassium-channel
+KCNQ3,Potassium-channel
+KCNQ4,Potassium-channel
+KCNQ5,Potassium-channel
+KCNRG,Potassium-channel
+KCNS1,Potassium-channel
+KCNS2,Potassium-channel
+KCNS3,Potassium-channel
+KCNT1,Potassium-channel
+KCNT2,Potassium-channel
+KCNU1,Potassium-channel
+KCNV1,Potassium-channel
+KCNV2,Potassium-channel
+KCTD1,Potassium-channel
+KCTD10,Potassium-channel
+KCTD11,Potassium-channel
+KCTD12,Potassium-channel
+KCTD13,Potassium-channel
+KCTD14,Potassium-channel
+KCTD15,Potassium-channel
+KCTD16,Potassium-channel
+KCTD17,Potassium-channel
+KCTD18,Potassium-channel
+KCTD19,Potassium-channel
+KCTD2,Potassium-channel
+KCTD20,Potassium-channel
+KCTD21,Potassium-channel
+KCTD3,Potassium-channel
+KCTD4,Potassium-channel
+KCTD5,Potassium-channel
+KCTD6,Potassium-channel
+KCTD7,Potassium-channel
+KCTD8,Potassium-channel
+KCTD9,Potassium-channel
+ANK3,Axon-excitability
+GABRA1,Axon-excitability
+PRRT2,Axon-excitability
+ANK2,Axon-excitability
+NTRK2,Axon-excitability
+GRIA1,Axon-excitability
+GABRB3,Axon-excitability
+NEFH,Axon-excitability
+SLC12A5,Axon-excitability
+KCNJ10,Axon-excitability
+RNF213,Axon-excitability
+NRXN1,Axon-excitability
+TRPA1,Axon-excitability
+ANO3,Axon-excitability
+PRICKLE1,Axon-excitability
+EEF1A2,Axon-excitability
+L1CAM,Axon-excitability
+SLC6A1,Axon-excitability
+GABRG2,Axon-excitability
+PRKCA,Axon-excitability
+STMN2,Axon-excitability
+ATP1A3,Axon-excitability
+NAV2,Axon-excitability
+KCNH5,Axon-excitability
+CACNG2,Axon-excitability
+CNTNAP2,Axon-excitability
+DRAXIN,Axon-excitability
+RUFY3,Axon-excitability
+ISLR2,Axon-excitability
+SCN2A,Axon-excitability
+MAPT,Axon-excitability
+GRIK1,Axon-excitability
+SCN1A,Axon-excitability
+GRIK2,Axon-excitability
+CNTNAP2,Axon-excitability
+TSC1,Axon-excitability
+SCN8A,Axon-excitability
+HCN1,Axon-excitability
+SCN9A,Axon-excitability
+NALCN,Axon-excitability
+KCNA1,Axon-excitability
+ANK2,Axon-excitability
+BDNF,Axon-excitability
+SLC12A6,Axon-excitability
+CNTN1,Axon-excitability
+ZDHHC14,Axon-excitability
+KCNH3,Axon-excitability
+KCNA2,Axon-excitability
+CYFIP2,Axon-excitability
+GRIN1,Axon-excitability
+NTRK2,Axon-excitability
+KCNA4,Axon-excitability
+DYRK1A,Axon-excitability
+RFX3,Axon-excitability
+SETD1A,Axon-excitability
+KCNJ10,Axon-excitability
+ATP1A1,Axon-excitability
+EDN1,Axon-excitability
+GABRD,Axon-excitability
+HCN2,Axon-excitability
+SCN4A,Axon-excitability
+SCN2B,Axon-excitability
+DPP6,Axon-excitability
+SCN1B,Axon-excitability
+KCNMA1,Axon-excitability
+BSN,Axon-excitability
+TMEM266,Axon-excitability
+CALB2,Axon-excitability
+RAC1,Axon-excitability
+EIG17,Axon-excitability
+SCN5A,Axon-excitability
+KCNJ6,Axon-excitability
+KCNT2,Axon-excitability
+DEE52,Axon-excitability
+GEFSP10,Axon-excitability
+FGF14,Axon-excitability
+CACNA1G,Axon-excitability
+SLC12A5,Axon-excitability
+FOS,Axon-excitability
+GPRIN3,Axon-excitability
+SNX14,Axon-excitability
+NTN1,Axon-excitability
+DCC,Axon-excitability
+ROBO1,Axon-excitability
+SLIT2,Axon-excitability
+EFNA5,Axon-excitability
+SLIT1,Axon-excitability
+NEFH,Axon-excitability
+ROBO3,Axon-excitability
+RTN4,Axon-excitability
+SEMA3A,Axon-excitability
+NEFL,Axon-excitability
+NRP1,Axon-excitability
+ROBO2,Axon-excitability
+NGFR,Axon-excitability
+DVL1,Axon-excitability
+PTEN,Axon-excitability
+NRP2,Axon-excitability
+SARM1,Axon-excitability
+NTF3,Axon-excitability
+EPHA4,Axon-excitability
+LMX1B,Axon-excitability
+EFNA2,Axon-excitability
+NFASC,Axon-excitability
+NRG1,Axon-excitability
+LHX3,Axon-excitability
+PRKCZ,Axon-excitability
+MTOR,Axon-excitability
+NRCAM,Axon-excitability
+UNC5C,Axon-excitability
+GSK3B,Axon-excitability
+FIGN,Axon-excitability
+RTN4R,Axon-excitability
+ANOS1,Axon-excitability
+WNT5A,Axon-excitability
+CADM3,Axon-excitability
+ADRB1,Axon-excitability
+DEE11,Axon-excitability
+ATRST2,Axon-excitability
+CACNA1C,Axon-excitability
+CLCN1,Axon-excitability
+GABRA6,Axon-excitability
+KCNJ1,Axon-excitability
+KCNJ2,Axon-excitability
+PRKCA,Axon-excitability
+FGF12,Axon-excitability
+UBE3A,Axon-excitability
+TRPV1,Axon-excitability
+KCNH4,Axon-excitability
+KCNIP1,Axon-excitability
+SLC4A10,Axon-excitability
+SHANK3,Axon-excitability
+KCNQ5,Axon-excitability
+CACNA1I,Axon-excitability
+TRPM3,Axon-excitability
+KCNMB1,Axon-excitability
+TAC1,Axon-excitability
+NALF1,Axon-excitability
+DSCAM,Axon-excitability
+SEMA6A,Axon-excitability
+KIF1B,Axon-excitability
+NGF,Axon-excitability
+WNT3,Axon-excitability
+SEMA3D,Axon-excitability
+PIEZO1,Axon-excitability
+IQCJ,Axon-excitability
+BMP7,Axon-excitability
+ADORA2B,Axon-excitability
+ANK3,Axon-excitability
+SHH,Axon-excitability
+SPTAN1,Axon-excitability
+CNTNAP1,Axon-excitability
+SOCS3,Axon-excitability
+SPAST,Axon-excitability
+GDF7,Axon-excitability
+PLS3,Axon-excitability
+NMNAT2,Axon-excitability
+FIG4,Axon-excitability
+GAN1,Axon-excitability
+SMN1,Axon-excitability
+RYK,Axon-excitability
+ERBB4,Axon-excitability
+SPTBN1,Axon-excitability
+TSC2,Axon-excitability
+KIF1A,Axon-excitability
+LHX1,Axon-excitability
+VAX1,Axon-excitability
+TBCE,Axon-excitability
+KATNA1,Axon-excitability
+PARD3,Axon-excitability
+HNRNPR,Axon-excitability
+RGMA,Axon-excitability
+SLC9A6,Axon-excitability
+BOC,Axon-excitability
+GDNF,Axon-excitability
+SHTN1,Axon-excitability
+MFM6,Axon-excitability
+CMS8,Axon-excitability
+ETM5,Axon-excitability
+SCAR31,Axon-excitability
+PSEN1,Axon-excitability
+EGR2,Axon-excitability
+SOD1,Axon-excitability
+SYN1,Axon-excitability
+GARS1,Axon-excitability
+EPHA1,Axon-excitability
+ELF1,Axon-excitability
+NTRK1,Axon-excitability
+EPHB2,Axon-excitability
+PLXNA1,Axon-excitability
+ROCK1,Axon-excitability
+ADAM10,Axon-excitability
+SPG7,Axon-excitability
+CELSR3,Axon-excitability
+HS6ST1,Axon-excitability
+CRTAC1,Axon-excitability
+ATL1,Axon-excitability
+BCL11B,Axon-excitability
+SEMA7A,Axon-excitability
+MFN2,Axon-excitability
+ATG7,Axon-excitability
+NELL2,Axon-excitability
+PARD6A,Axon-excitability
+TENM4,Axon-excitability
+SLC25A46,Axon-excitability
+AVIL,Axon-excitability
+SCHIP1,Axon-excitability
+DBX1,Axon-excitability
+MRMV1,Axon-excitability
+MRMV4,Axon-excitability
+DCBLD2,Poor-prognosis
+PTPN14,Poor-prognosis
+LAMP5,Poor-prognosis
+TM4SF1,Poor-prognosis
+NPR3,Poor-prognosis
+LEMD1,Poor-prognosis
+LCA5,Poor-prognosis
+CSGALNACT2,Poor-prognosis
+SLC2A3,Poor-prognosis
+GADD45B,Poor-prognosis
+SCEL,Poor-prognosis
+SIX4,Poor-prognosis
+AKAP12,Poor-prognosis
+COLEC12,Poor-prognosis
+PDLIM3,Poor-prognosis
+ITGB5,Poor-prognosis
+GULP1,Poor-prognosis
+SCG2,Poor-prognosis
+AHNAK2,Poor-prognosis
+CYP1B1,Poor-prognosis
+PRKD1,Poor-prognosis
+SPARCL1,Poor-prognosis
+CDKN2B,Poor-prognosis
+MLLT11,Poor-prognosis
+CD36,Poor-prognosis
+SERPINE1,Poor-prognosis
+LATS2,Poor-prognosis
+SCHIP1,Poor-prognosis
+MAP1B,Poor-prognosis
+AKT3,Poor-prognosis
+FOXC1,Poor-prognosis
+TMEM136,Poor-prognosis
+NOTCH3,Poor-prognosis
+TNS1,Poor-prognosis
+NEK7,Poor-prognosis
+MAP4K4,Poor-prognosis
+CALB2,Poor-prognosis
+HOXB2,Poor-prognosis
+NRP2,Poor-prognosis
+PABPC4L,Poor-prognosis
+PTTG1IP,Poor-prognosis
+C5AR1,Poor-prognosis
+CAPRIN2,Poor-prognosis
+PLN,Poor-prognosis
+TPT1,Poor-prognosis
+EMP1,Poor-prognosis
+ITGA5,Poor-prognosis
+SLC20A1,Poor-prognosis
+FRMD6,Poor-prognosis
+ANXA1,Poor-prognosis
+GEM,Poor-prognosis
+RGS2,Poor-prognosis
+ABLIM3,Poor-prognosis
+LAMC1,Poor-prognosis
+FABP4,Poor-prognosis
+PIM1,Poor-prognosis
+ZNF83,Poor-prognosis
+SRPX,Poor-prognosis
+MICU3,Poor-prognosis
+NRP1,Poor-prognosis
+NID1,Poor-prognosis
+ARL4C,Poor-prognosis
+TAGLN,Poor-prognosis
+FAM63B,Poor-prognosis
+HSPA1A,Poor-prognosis
+CYR61,Poor-prognosis
+PCSK5,Poor-prognosis
+ARHGAP29,Poor-prognosis
+CAMSAP2,Poor-prognosis
+VAT1,Poor-prognosis
+WWTR1,Poor-prognosis
+SLIT2,Poor-prognosis
+SFRP2,Poor-prognosis
+POSTN,Poor-prognosis
+KANK4,Poor-prognosis
+RABGAP1,Poor-prognosis
+GPX3,Poor-prognosis
+ZNF117,Poor-prognosis
+ADAMTS6,Poor-prognosis
+PTPN12,Poor-prognosis
+BICD1,Poor-prognosis
+RUNX2,Poor-prognosis
+CST6,Poor-prognosis
+LAMA4,Poor-prognosis
+DUSP5,Poor-prognosis
+GLRB,Poor-prognosis
+BTBD19,Poor-prognosis
+UGCG,Poor-prognosis
+SUGCT,Poor-prognosis
+RHOD,Poor-prognosis
+SLC35G2,Poor-prognosis
+THBS2,Poor-prognosis
+TCEAL4,Poor-prognosis
+CYBRD1,Poor-prognosis
+FN1,Poor-prognosis
+DZIP1,Poor-prognosis
+CD59,Poor-prognosis
+LRRC8A,Poor-prognosis
+FLNA,Poor-prognosis
+RGCC,Poor-prognosis
+PRR14L,Poor-prognosis
+PPIP5K2,Poor-prognosis
+PTPRB ,Poor-prognosis
+ZDHHC21,Poor-prognosis
+BCL2L12,Good-prognosis
+FKBP10,Good-prognosis
+XKRX,Good-prognosis
+WFS1,Good-prognosis
+TESC,Good-prognosis
+CCR7,Good-prognosis
+SPACA3,Good-prognosis
+LY6G6C,Good-prognosis
+L1CAM,Good-prognosis
+OSM,Good-prognosis
+EXTL1,Good-prognosis
+LY6D,Good-prognosis
+FCRL5,Good-prognosis
+MYEOV,Good-prognosis
+FOXD1,Good-prognosis
+REG3G,Good-prognosis
+HAPLN1,Good-prognosis
+MAOB,Good-prognosis
+TNFSF11,Good-prognosis
+AMIGO3,Good-prognosis
+NOTCH2,Good-prognosis
+ITPRIP,Good-prognosis
+FRMD6,Good-prognosis
+GFRA4,Good-prognosis
+OSBPL9,Good-prognosis
+CPXCR1,Good-prognosis
+SORCS2,Good-prognosis
+PDC,Good-prognosis
+C12orf66,Good-prognosis
+SLC38A9,Good-prognosis
+OR10H5,Good-prognosis
+TRIP13,Good-prognosis
+MRPL52,Good-prognosis
+DUSP21,Good-prognosis
+BRCA1,Good-prognosis
+ELTD1,Good-prognosis
+SPG7,Good-prognosis
+LASS6,Good-prognosis
+DUOX2,Good-prognosis
+ARHGAP8,Good-prognosis
+CA7,Good-prognosis
+NEDD4L,Good-prognosis
+FGFR2,Good-prognosis
+SMTN,Good-prognosis
+OIP5,Good-prognosis
+EZH2,Good-prognosis
+AMH,Good-prognosis
+WBSCR28,Good-prognosis
+SFTA2,Good-prognosis
+MYH2,Good-prognosis
+POU4F1,Good-prognosis
+SIX4,Good-prognosis
+PGPEP1L,Good-prognosis
+PAX5,Good-prognosis
+PGD,Good-prognosis
+NAT1,Good-prognosis
+WARS,Good-prognosis
+SULT1A1,Good-prognosis
+GSTO2,Good-prognosis
+GSTM1,Good-prognosis
+ADSL,Good-prognosis
+POLR3A,Good-prognosis
+ENPP2,Good-prognosis
+CXCL8,Good-prognosis
+MMP12,Good-prognosis
+GDF15,Good-prognosis
+SPP1,Good-prognosis
+NR3C2,Good-prognosis

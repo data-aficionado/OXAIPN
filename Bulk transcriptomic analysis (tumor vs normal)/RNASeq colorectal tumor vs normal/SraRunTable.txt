@@ -1,0 +1,55 @@
+Run,type
+SRR975551,primary colorectal cancer
+SRR975552,primary colorectal cancer
+SRR975553,primary colorectal cancer
+SRR975554,primary colorectal cancer
+SRR975555,primary colorectal cancer
+SRR975556,primary colorectal cancer
+SRR975557,primary colorectal cancer
+SRR975558,primary colorectal cancer
+SRR975559,primary colorectal cancer
+SRR975560,primary colorectal cancer
+SRR975561,primary colorectal cancer
+SRR975562,primary colorectal cancer
+SRR975563,primary colorectal cancer
+SRR975564,primary colorectal cancer
+SRR975565,primary colorectal cancer
+SRR975566,primary colorectal cancer
+SRR975567,primary colorectal cancer
+SRR975568,primary colorectal cancer
+SRR975569,normal colon
+SRR975570,normal colon
+SRR975571,normal colon
+SRR975572,normal colon
+SRR975573,normal colon
+SRR975574,normal colon
+SRR975575,normal colon
+SRR975576,normal colon
+SRR975577,normal colon
+SRR975578,normal colon
+SRR975579,normal colon
+SRR975580,normal colon
+SRR975581,normal colon
+SRR975582,normal colon
+SRR975583,normal colon
+SRR975584,normal colon
+SRR975585,normal colon
+SRR975586,normal colon
+SRR975587,metastasized cancer
+SRR975588,metastasized cancer
+SRR975589,metastasized cancer
+SRR975590,metastasized cancer
+SRR975591,metastasized cancer
+SRR975592,metastasized cancer
+SRR975593,metastasized cancer
+SRR975594,metastasized cancer
+SRR975595,metastasized cancer
+SRR975596,metastasized cancer
+SRR975597,metastasized cancer
+SRR975598,metastasized cancer
+SRR975599,metastasized cancer
+SRR975600,metastasized cancer
+SRR975601,metastasized cancer
+SRR975602,metastasized cancer
+SRR975603,metastasized cancer
+SRR975604,metastasized cancer

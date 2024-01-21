@@ -1,0 +1,5 @@
+"","baseMean","log2FoldChange","lfcSE","stat","pvalue","padj","ensembl_gene_id","gene_biotype","hgnc_symbol"
+"41905",0,NA,NA,NA,NA,NA,"ENSG00000249446","TR_J_pseudogene","TRAJ60"
+"41947",0.144509643059361,0.816575430805772,4.55699627758466,0.179191594871914,0.857787263233895,NA,"ENSG00000250688","TR_J_pseudogene","TRAJ55"
+"41978",0,NA,NA,NA,NA,NA,"ENSG00000248366","TR_J_pseudogene","TRAJ51"
+"42508",0,NA,NA,NA,NA,NA,"ENSG00000211881","TR_J_pseudogene","TRAJ8"
